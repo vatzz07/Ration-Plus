@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "PDS Mobile",
+    "slug": "pds-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "pds-mobile",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2E7D32"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rationplus.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2E7D32"
+      },
+      "package": "com.rationplus.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d96018d3-298c-49b0-8e0a-8aa7fbebe9f1"
+      }
+    },
+    "plugins": [
+      "expo-font",
+      "expo-web-browser"
+    ]
+  }
+}
