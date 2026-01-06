@@ -101,4 +101,5 @@ It does not replace existing government systems and is designed to align with cu
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name / Team Name]**  
+Developed by **Srivatsan**  
+
